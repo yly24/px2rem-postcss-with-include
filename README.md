@@ -8,8 +8,13 @@ module.exports = {
   'plugins': {
     'postcss-px2rem-exclude': {
       remUnit: 75,
-      exclude: /node_modules|vux/
+      exclude: /node_modules/
     }
   }
 }
 ```
+# latest 
+
+## 0.0.4
+
+* The string condition is changed to a regular expression.
