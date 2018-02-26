@@ -1,6 +1,6 @@
 {
   "name": "postcss-px2rem-exclude",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Based on postcss-px2rem added the exclude folder options.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
   },
   "keywords": [
     "postcss",
-    "px2rem"
+    "px2rem",
+    "exclude"
   ],
   "author": "sekai",
   "license": "MIT",
