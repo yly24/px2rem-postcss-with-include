@@ -2,9 +2,10 @@
 
 Based on [postcss-px2rem](https://www.npmjs.com/package/postcss-px2rem) added the exclude folder option.
 
-![Downloads][downloads-image]
+[![Downloads][downloads-image]][downloads-url]
 
 [downloads-image]: https://img.shields.io/npm/dm/postcss-px2rem-exclude.svg?style=flat-square
+[downloads-url]: https://www.npmjs.com/package/postcss-px2rem-exclude
 
 ## Useage
 
