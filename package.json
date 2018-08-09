@@ -1,6 +1,6 @@
 {
   "name": "postcss-px2rem-include",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Based on postcss-px2rem added the include options.",
   "main": "index.js",
   "scripts": {
